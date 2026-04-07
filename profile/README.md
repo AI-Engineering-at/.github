@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://hub.ai-engineering.at/eagle-logo.png" width="80" alt="AI Engineering" />
-
-# AI Engineering
-
-**Local AI systems for DACH SMBs. GDPR-compliant, documented, auditable.**
-
-[Wiki](https://wiki.ai-engineering.at) · [Hub](https://hub.ai-engineering.at) · [Website](https://www.ai-engineering.at)
-
-*Alle Projekte sind bilingual (DE + EN) verfuegbar.*
+<img src="https://raw.githubusercontent.com/AI-Engineering-at/.github/main/profile/banner.png" width="100%" alt="AI Engineering — Local AI. Open Tools. Real Ops." />
 
 </div>
 
 ---
 
 We build and operate local AI infrastructure. No cloud dependency, no data leaving your hands. 9 nodes, 3 GPUs, 37 workflows in production — self-hosted in Austria.
+
+*Alle Projekte sind bilingual (DE + EN) verfuegbar.*
 
 ## Open Source
 
@@ -24,9 +18,9 @@ We build and operate local AI infrastructure. No cloud dependency, no data leavi
 | [**Hub**](https://hub.ai-engineering.at) | 900+ AI skills and MCP servers — searchable, installable |
 | [**NSS 3.1.1**](https://github.com/AI-Engineering-at/nss) | 6-layer defensive architecture for sovereign AI |
 | [**Homelab MCP**](https://github.com/AI-Engineering-at/homelab-mcp-bundle) | 8 MCP servers for Docker, Proxmox, n8n, monitoring |
-| [**TuneForge**](https://github.com/AI-Engineering-at/tuneforge) | Fine-tuning pipeline for local LLMs (LoRA, QLoRA) |
+| [**TuneForge**](https://github.com/AI-Engineering-at/tuneforge) | Fine-tuning pipeline for local LLMs |
 | [**Legal Framework**](https://github.com/AI-Engineering-at/ai-agent-legal-framework) | EU AI Act + GDPR compliance templates |
-| [**TurboQuant Guide**](https://github.com/AI-Engineering-at/llama-cpp-turboquant-guide) | 100k context on RTX 3090 with TurboQuant |
+| [**TurboQuant**](https://github.com/AI-Engineering-at/llama-cpp-turboquant-guide) | 100k context on RTX 3090 with TurboQuant |
 
 ## Research
 
